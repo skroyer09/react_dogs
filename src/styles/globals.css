@@ -13,3 +13,7 @@ img {
   height: auto;
   max-width: 750px;
 }
+
+a {
+  margin: 3px;
+}
